@@ -1,1 +1,1 @@
-web: gunicorn feed2discord
+web: discord.py feed2discord
