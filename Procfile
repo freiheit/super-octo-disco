@@ -1,1 +1,1 @@
-web: npm run forever
+web: gunicorn feed2discord
