@@ -1,1 +1,1 @@
-web: discord.py feed2discord
+worker: python feed2discord.py
